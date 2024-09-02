@@ -32,9 +32,20 @@ Welcome to my GitHub profile! I'm passionate about solving real-world problems w
   - VS Code
   - Jupyter Notebooks
 
-## 📈 GitHub Contributions
+## 📈 GitHub Stats
+
 ![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac-Zimba-J&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Zimba-J&layout=compact&theme=radical)
+![Isaac's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Isaac-Zimba-J&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=Isaac-Zimba-J&theme=radical&no-frame=true&margin-w=15)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Isaac-Zimba-J&theme=radical)](https://git.io/streak-stats)
+![Isaac's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Isaac-Zimba-J&theme=redical)
+![Visitor Count](https://komarev.com/ghpvc/?username=Isaac-Zimba-J&color=brightgreen)
+
+## 🔥 My Featured Repositories
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Isaac-Zimba-J&repo=RepoName&theme=radical)](https://github.com/Isaac-Zimba-J/RepoName)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Isaac-Zimba-J&repo=AnotherRepo&theme=radical)](https://github.com/Isaac-Zimba-J/AnotherRepo)
 
 ## 💞️ Let's Collaborate
 I'm always looking to collaborate on innovative projects. If you're working on something exciting, especially in AI or software development, feel free to reach out!
