@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Isaac Zimba (@Isaac-Zimba-J)
+# 👋 Hi, I’m Isaac Zimba (@Isaac-Zimba-J) ![Visitor Count](https://komarev.com/ghpvc/?username=Isaac-Zimba-J&color=brightgreen)
 
 Welcome to my GitHub profile! I'm passionate about solving real-world problems with code and leveraging technology to make a difference.
 
@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm passionate about solving real-world problems w
 ![trophy](https://github-profile-trophy.vercel.app/?username=Isaac-Zimba-J&theme=radical&no-frame=true&margin-w=15)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Isaac-Zimba-J&theme=radical)](https://git.io/streak-stats)
 ![Isaac's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Isaac-Zimba-J&theme=redical)
-![Visitor Count](https://komarev.com/ghpvc/?username=Isaac-Zimba-J&color=brightgreen)
+
 
 ## 🔥 My Featured Repositories
 
