@@ -42,9 +42,6 @@ Welcome to my GitHub profile! I'm passionate about solving real-world problems w
 
 ## 🔥 My Featured Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Isaac-Zimba-J&repo=RepoName&theme=radical)](https://github.com/Isaac-Zimba-J/RepoName)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Isaac-Zimba-J&repo=AnotherRepo&theme=radical)](https://github.com/Isaac-Zimba-J/AnotherRepo)
-
 ## 💞️ Let's Collaborate
 I'm always looking to collaborate on innovative projects. If you're working on something exciting, especially in AI or software development, feel free to reach out!
 
