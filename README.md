@@ -34,7 +34,6 @@ Welcome to my GitHub profile! I'm passionate about solving real-world problems w
 
 ## 📈 GitHub Stats
 
-![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac-Zimba-J&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Zimba-J&layout=compact&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Isaac-Zimba-J&theme=radical)](https://git.io/streak-stats)
 
