@@ -1,48 +1,85 @@
-# 👋 Hi, I’m Isaac Zimba (@Isaac-Zimba-J) ![Visitor Count](https://komarev.com/ghpvc/?username=Isaac-Zimba-J&color=brightgreen)
+# 👋 Hi there, I’m Isaac Zimba (@Isaac-Zimba-J)  
+![Visitor Count](https://komarev.com/ghpvc/?username=Isaac-Zimba-J&color=brightgreen)
 
-Welcome to my GitHub profile! I'm passionate about solving real-world problems with code and leveraging technology to make a difference.
+🚀 **Software Engineer | AI & ML Enthusiast | Tech Community Leader**
 
-## 👀 Interests
-- **Problem Solving**: I love tackling challenges through innovative coding solutions.
-- **Machine Learning & Deep Learning**: Currently diving into the fascinating world of AI, exploring how to train models, build neural networks, and work with data.
-- **Collaboration**: Always open to working with like-minded individuals on exciting projects.
+---
 
-## 🌱 Current Focus
-- **Machine Learning**: Experimenting with algorithms, data preprocessing, and model optimization.
-- **Deep Learning**: Exploring neural networks, computer vision, and NLP tasks.
+## 🌍 About Me  
 
-## 💼 Skills
-- **Programming Languages**: 
-  - Python 🐍
-  - Java ☕
-  - C++
-  - C#
-  - JavaScript 🌐
-- **Technologies**:
-  - TensorFlow & Keras
-  - PyTorch
-  - OpenCV
-  - Flask & Django
-  - .NET Frameworks (Blazor, ASP.NET Web API, MAUI for mobile apps)
-  - React.js
-  - Bootstrap
-- **Tools**:
-  - Git & GitHub
-  - Docker
-  - VS Code
-  - Jupyter Notebooks
+I’m a **Software Engineer and Machine Learning enthusiast** passionate about building impactful digital solutions that solve real-world problems.  
+Currently pursuing my degree at **The Copperbelt University (CBU)**, I serve as the **President of the ICTAZ-CBU Chapter**, where I lead initiatives to empower students with modern tech skills and foster industry collaboration.  
 
-## 📈 GitHub Stats
+My journey has been all about **turning ideas into code**, **mentoring peers**, and **pushing the boundaries** of what technology can achieve.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Zimba-J&layout=compact&theme=radical)
+---
 
+## 🧠 What I’m Focused On  
 
-## 🔥 My Featured Repositories
+- 💡 **AI & Machine Learning** – Developing models for computer vision and natural language processing.  
+- 🧱 **Full-Stack Development** – Building modern apps using **ASP.NET**, **React**, and **Blazor**.  
+- 🤖 **Research & Innovation** – Working on projects like **Zambian Sign Language translation systems** using computer vision and speech synthesis.  
+- 🌐 **Collaboration & Open Source** – Sharing knowledge, mentoring, and contributing to impactful software projects.  
 
-## 💞️ Let's Collaborate
-I'm always looking to collaborate on innovative projects. If you're working on something exciting, especially in AI or software development, feel free to reach out!
+---
 
-## 📫 How to Reach Me
-- Email: [zimbaisaacj2002@gmail.com](mailto:zimbaisaacj2002@gmail.com)
-- LinkedIn: [Isaac Zimba](https://www.linkedin.com/in/isaac-zimba)
+## 🧰 Tech Stack  
 
+**💻 Languages:**  
+Python 🐍 | Java ☕ | C++ | C# | JavaScript 🌐  
+
+**🧩 Frameworks & Tools:**  
+- **Backend:** ASP.NET Core, Django, Flask  
+- **Frontend:** React.js, Blazor, Bootstrap, TailwindCSS  
+- **Machine Learning:** TensorFlow, PyTorch, Scikit-learn, OpenCV  
+- **Data & Deployment:** MySQL, SQLite, Docker, Redis, Celery  
+- **Other Tools:** Git & GitHub, VS Code, Jupyter Notebooks  
+
+---
+
+## 📈 GitHub Insights  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Zimba-J&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isaac-Zimba-J&show_icons=true&theme=radical)
+
+---
+
+## 🔬 Featured Work  
+
+| Project | Description | Tech Stack |
+|----------|--------------|------------|
+| [Zambian Sign Language Translator](https://github.com/Isaac-Zimba-J) | Real-time hand gesture translation into text and speech using AI and computer vision. | Python, OpenCV, MediaPipe, PyTorch |
+| [Budget Buddy](https://github.com/Isaac-Zimba-J/budget-buddy) | Collaborative budgeting app that allows shared spending plans, smart suggestions, and notifications. | ASP.NET Core, React, MySQL |
+| [Transfer3](https://github.com/Isaac-Zimba-J/Transfer3) | A secure and reliable peer-to-peer money transfer simulation app with smart validation and tracking. | ASP.NET Core, Blazor, MySQL |
+| [Motivate](https://github.com/Isaac-Zimba-J/Motivate) | A simple, elegant MAUI app that displays random motivational quotes at the press of a button. | .NET MAUI, C#, XAML |
+| [Tomatoes](https://github.com/Isaac-Zimba-J/Tomatoes) | Machine learning model for detecting tomato plant diseases through image classification. | Python, TensorFlow, OpenCV, Keras |
+| [Business Registration System](https://github.com/Isaac-Zimba-J) | Workflow-based registration and compliance system built with modular architecture. | Hono.js, Drizzle ORM, TypeScript |
+
+---
+
+## 💬 Community & Leadership  
+
+- 🎓 **President** – ICTAZ-CBU Chapter (Information and Communication Technology Association of Zambia)  
+- 💻 **Google Developer Student Clubs (GDSC)** Lead  
+- 🌍 **Microsoft Learn Student Ambassador (Beta)**  
+- 🧑🏽‍🏫 Conducted workshops in **C++**, **Web Development**, and **AI Fundamentals**  
+- ⚙️ Organizer – **Hackathons**, **Sprintathons**, and **Tech Meetups** at CBU  
+
+---
+
+## 💞️ Let’s Collaborate  
+
+I’m always looking to collaborate on **AI-driven**, **open-source**, or **impactful software projects**.  
+If you’re working on something exciting, let’s connect and build something great together! 🚀  
+
+---
+
+## 📫 Get in Touch  
+
+- 📧 **Email:** [zimbaisaacj2002@gmail.com](mailto:zimbaisaacj2002@gmail.com)  
+- 💼 **LinkedIn:** [Isaac Zimba](https://www.linkedin.com/in/isaac-zimba)  
+- 🐙 **GitHub:** [@Isaac-Zimba-J](https://github.com/Isaac-Zimba-J)
+
+---
+
+⭐ *"Empowering people through technology, one line of code at a time."*  
