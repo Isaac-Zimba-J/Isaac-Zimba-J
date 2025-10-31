@@ -8,7 +8,7 @@
 ## 🌍 About Me  
 
 I’m a **Software Engineer and Machine Learning enthusiast** passionate about building impactful digital solutions that solve real-world problems.  
-Currently pursuing my degree at **The Copperbelt University (CBU)**, I serve as the **President of the ICTAZ-CBU Chapter**, where I lead initiatives to empower students with modern tech skills and foster industry collaboration.  
+Currently pursuing my degree at **The Copperbelt University (CBU)**, I served as the **President of the ICTAZ-CBU Chapter**, where I led initiatives to empower students with modern tech skills and foster industry collaboration.  
 
 My journey has been all about **turning ideas into code**, **mentoring peers**, and **pushing the boundaries** of what technology can achieve.
 
@@ -17,8 +17,8 @@ My journey has been all about **turning ideas into code**, **mentoring peers**, 
 ## 🧠 What I’m Focused On  
 
 - 💡 **AI & Machine Learning** – Developing models for computer vision and natural language processing.  
-- 🧱 **Full-Stack Development** – Building modern apps using **ASP.NET**, **React**, and **Blazor**.  
-- 🤖 **Research & Innovation** – Working on projects like **Zambian Sign Language translation systems** using computer vision and speech synthesis.  
+- 🧱 **Full-Stack Development** – Building modern apps using **ASP.NET**, **Angular** ,**.NET MAUI**, and **Blazor**.  
+- 🤖 **Research & Innovation** – Working on projects like **Zambian Sign Language translation systems** using computer vision and speech synthesis. I am also into NLP.
 - 🌐 **Collaboration & Open Source** – Sharing knowledge, mentoring, and contributing to impactful software projects.  
 
 ---
@@ -30,10 +30,10 @@ Python 🐍 | Java ☕ | C++ | C# | JavaScript 🌐
 
 **🧩 Frameworks & Tools:**  
 - **Backend:** ASP.NET Core, Django, Flask  
-- **Frontend:** React.js, Blazor, Bootstrap, TailwindCSS  
-- **Machine Learning:** TensorFlow, PyTorch, Scikit-learn, OpenCV  
-- **Data & Deployment:** MySQL, SQLite, Docker, Redis, Celery  
-- **Other Tools:** Git & GitHub, VS Code, Jupyter Notebooks  
+- **Frontend:** Angular, Blazor, Bootstrap, TailwindCSS  
+- **Machine Learning:**  PyTorch, Scikit-learn, OpenCV  
+- **Data & Deployment:** PostgeSQL, MySQL, SQLite, Docker, Redis, Celery, Azure AI Foundry 
+- **Other Tools:** Git & GitHub, VS Code, Jupyter Notebooks, Azure Cloud 
 
 ---
 
@@ -59,10 +59,11 @@ Python 🐍 | Java ☕ | C++ | C# | JavaScript 🌐
 
 ## 💬 Community & Leadership  
 
-- 🎓 **President** – ICTAZ-CBU Chapter (Information and Communication Technology Association of Zambia)  
+
 - 💻 **Google Developer Student Clubs (GDSC)** Lead  
-- 🌍 **Microsoft Learn Student Ambassador (Beta)**  
-- 🧑🏽‍🏫 Conducted workshops in **C++**, **Web Development**, and **AI Fundamentals**  
+- 🌍 **Microsoft Learn Student Ambassador (Beta)**
+- - 🎓 **Former President** – ICTAZ-CBU Chapter (Information and Communication Technology Association of Zambia)  
+- 🧑🏽‍🏫 Conducted workshops in **C++**, **Web Development**, **.NET MAUI**, and **AI Fundamentals**  
 - ⚙️ Organizer – **Hackathons**, **Sprintathons**, and **Tech Meetups** at CBU  
 
 ---
