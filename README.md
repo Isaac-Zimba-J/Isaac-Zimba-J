@@ -72,11 +72,10 @@ C# ⭐ | Python 🐍 | Java ☕ | JavaScript 🌐 | TypeScript | C++
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [SmartEvents](https://github.com/Isaac-Zimba-J/SmartEvents) | Intelligent event management and planning system with smart scheduling and attendee management. | ASP.NET Core, Angular/Blazor |
-| [CBU Cybersecurity Policy Compliance Monitor](https://github.com/Isaac-Zimba-J/CBU-Cybersecurity-Policy-Compliance-Monitoring-System) | Institutional cybersecurity policy compliance monitoring system built for CBU — tracks, assesses, and reports on policy adherence across the university's IT environment. | ASP.NET Core, C# |
-| [Budget Buddy](https://github.com/Isaac-Zimba-J/budget-buddy) | Collaborative budgeting app with shared spending plans, smart suggestions, and notifications. | ASP.NET Core, React, MySQL |
-| [Transfer3](https://github.com/Isaac-Zimba-J/Transfer3) | Secure peer-to-peer money transfer simulation with smart validation and transaction tracking. | ASP.NET Core, Blazor, MySQL |
-| [Business Registration System](https://github.com/Isaac-Zimba-J) | Workflow-based business registration and compliance platform with modular architecture. | Hono.js, Drizzle ORM, TypeScript |
+| [SmartEvents](https://github.com/Isaac-Zimba-J/SmartEvents) | Intelligent event management and planning system with smart scheduling and attendee management. | ASP.NET Core, Angular |
+| [CBU Cybersecurity Policy Compliance Monitor](https://github.com/Isaac-Zimba-J/CBU-Cybersecurity-Policy-Compliance-Monitoring-System) | Institutional cybersecurity policy compliance monitoring system built for CBU — tracks, assesses, and reports on policy adherence across the university's IT environment. | Angular, Flask, Python|
+| [Budget Buddy](https://github.com/Isaac-Zimba-J/budget-buddy) | Collaborative budgeting app with shared spending plans, smart suggestions, and notifications. | .NET MAUI, C#, XAML |
+| [Transfer3](https://github.com/Isaac-Zimba-J/Transfer3) | Secure peer-to-peer money transfer simulation with smart validation and transaction tracking. | .NET MAUI, C#, XAML |
 | [Motivate](https://github.com/Isaac-Zimba-J/Motivate) | Elegant .NET MAUI mobile app that delivers random motivational quotes. | .NET MAUI, C#, XAML |
 
 ### 🏭 Production SaaS (Live)
